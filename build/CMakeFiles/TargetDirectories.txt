@@ -1,0 +1,3 @@
+/home/sai/coding/game/space_invader/build/CMakeFiles/space_invader.dir
+/home/sai/coding/game/space_invader/build/CMakeFiles/edit_cache.dir
+/home/sai/coding/game/space_invader/build/CMakeFiles/rebuild_cache.dir
